@@ -13,11 +13,13 @@
   ### 🏋️‍♂️ Assistente de Personal Trainer - Gerador de Treino Ideal
 </div>
 
-Os arquivos [prompt-v1.md](./prompt-v1.md) e [prompt-v2.md](./prompt-v2.md), sepropoem a ser a solução de um desfio de Prompt Engineer, onde o objetivo foi criar um prompt que ajuda a montar o treino ideal segundo o que foi solicitado no <a href="../readme.md"> documento readme.md</a> fornecido no desfio
+Os arquivos [prompt-v1.md](./prompt-v1.md), [prompt-v2.md](./prompt-v2.md) e [prompt-v3.md](./prompt-v3.md), se propoem a ser a soluções de um desfio de Prompt Engineer, onde o objetivo foi criar um prompt que ajuda a montar o treino ideal segundo o que foi solicitado no [documento readme.md](../readme.md) fornecido no desfio.
 
 
 ### Breve descrição do que cada prompt faz.
-O [prompt-v1.md](./prompt-v1.md) tem como objetivo atender as solicitações propostas no desafio e se limitar à apenas este escopo. O [prompt-v2.md](./prompt-v2.md) deriva do [prompt-v1.md](./prompt-v1.md), com um escolpo ampliado, ele pretende fazer cálculos de necessidade calórica e proteica e através dessas informações sugerir dois cardápios equilibrado que atenda essas demandas.
+O [prompt-v1.md](./prompt-v1.md) tem como objetivo atender as solicitações propostas no desafio e se limitar à apenas este escopo. O [prompt-v2.md](./prompt-v2.md) deriva do [prompt-v1.md](./prompt-v1.md), com um escolpo ampliado, ele pretende fazer cálculos de necessidade calórica e proteica e através dessas informações sugerir dois cardápios equilibrado que atenda essas demandas. 
+
+Já o [prompt-v3.md](./prompt-v3.md) é uma adequação para a criação de um GPT que pode ser acessado que chamei de [Fit Expert](https://chatgpt.com/g/g-aLLO9qjA9-fit-expert) e esta rodando no ChatGPT.
 
 
  # ***❗❗❗Alerta❗❗❗***
