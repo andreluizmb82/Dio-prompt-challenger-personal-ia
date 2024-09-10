@@ -22,6 +22,6 @@ O [prompt-v1.md](./prompt-v1.md) tem como objetivo atender as solicitações pro
 Já o [prompt-v3.md](./prompt-v3.md) é uma adequação para a criação de um GPT que pode ser acessado que chamei de [Fit Expert](https://chatgpt.com/g/g-aLLO9qjA9-fit-expert) e esta rodando no ChatGPT.
 
 
- # ***❗❗❗Alerta❗❗❗***
+ #  <span style="color:red">***❗❗❗ Alerta ❗❗❗***</span>
 O [prompt-v2.md](./prompt-v2.md), apesar de ter um esculpo interessante, ele esbarra em uma limitação da IA, ate o ultimo teste que fiz, as 16:33 do dia 03/09/2024, a IA Claude 3 Haiku
 v1, errou os cálculos calóricos e com frequência indicava um cardápio com Calorias Totais Diárias inferiores a que ele mesmo calculava. Talvez na data em que você esteja lendo este README.mb, o erro já pode ter sido corrigido.
